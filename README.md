@@ -6,8 +6,8 @@ I am a Senior Data Engineer with 11 years of experience delivering scalable data
 ---
 
 ### 🚀 Technical Leadership & Impact
-- **Architecting at Scale:** Managing the end-to-end engineering for a large US retail pricing solution, handling daily ingestion of 100TB+ (POS, item, and competitor data).
-- **Real-Time Data Streaming:** Designing and implementing scalable stream data pipelines using Kafka and Databricks to process 500GB of daily data for downstream systems.
+- **Architecting at Scale:** Managing the end-to-end engineering for a large US retail pricing solution, handling daily ingestion of 500GB+ (POS, item, and competitor data).
+- **Real-Time Data Streaming:** Designing and implementing scalable stream data pipelines using Kafka and Databricks to process daily data for downstream systems.
 - **Financial Stewardship:** Directly responsible for platform cost improvements and project budgeting; achieved $70K in savings for the 2024-25 cycle through optimization initiatives.
 - **Team Leadership:** Leading a team of 5 analysts to facilitate solution delivery, focusing on technical workstreams, mentorship, and career growth.
 - **Stakeholder Impact:** Reporting directly to CxO-level client stakeholders and McKinsey partners to translate complex data into actionable pricing strategies.
@@ -20,9 +20,10 @@ I am a Senior Data Engineer with 11 years of experience delivering scalable data
 - **Emerging Tech:** GenAI, LangChain, Machine Learning
 
 ### 📈 Professional Highlights
-- **McKinsey & Company:** Leading the Price Advisor (B2B Pricing) project, improving pricing adoption rates from ~42% to ~94% through data strategy changes.
-- **Deloitte Consulting:** Served as a Data Engineering Consultant for a "Largest Internet Search Engine Company," building automated ingestion pipelines from SAP/Oracle to BigQuery.
+- **McKinsey & Company:** Leading the B2B Pricing Engineering & Analytics solution, Recommending daily prices to be executed with different pricing strategies for 26 states & 50K+ SKUs.
 - **Amazon:** Optimized transportation matrices and minimized supply chain disruptions for the Amazon Freight Inbound BI team.
+- **Deloitte Consulting:** Served as a Data Engineering Consultant for a "Largest Internet Search Engine Company," building automated ingestion pipelines from SAP/Oracle to BigQuery.
+- **Accenture:** Development and maintenance of Finance and Accounting application leveraging SQL, SSIS, SSRS, PowerBi.
 
 ---
 ### 🤝 Connect with Me
